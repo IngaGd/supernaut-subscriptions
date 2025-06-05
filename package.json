@@ -1,0 +1,19 @@
+{
+  "name": "supernaut-subscriptions",
+  "version": "1.0.0",
+  "description": "\"Express.js service that handles mock Stripe webhook events to track user subscription status\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Inga Daujote",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
