@@ -4,7 +4,7 @@
     "object": {
       "id": "sub_testId_125",
       "customer": "cus_test_003",
-      "status": "active"
+      "status": "trialing"
     }
   }
 }

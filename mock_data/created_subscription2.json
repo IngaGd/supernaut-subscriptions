@@ -4,7 +4,7 @@
     "object": {
       "id": "sub_testId_124",
       "customer": "cus_test_002",
-      "status": "active"
+      "status": "incomplete"
     }
   }
 }
