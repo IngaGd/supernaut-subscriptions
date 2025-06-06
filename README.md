@@ -81,7 +81,6 @@ Copy and paste mock data from the mock_data folder into the Postman request body
 
 ### Access Check (GET)
 
-API Endpoint
 **URL:** /access/:customerId  
 **Description:** Returns subscription access status
 
